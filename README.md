@@ -1,4 +1,4 @@
-# chatrobot
+# QA Chatbot
 
 模型: https://huggingface.co/  
 https://huggingface.co/ClueAI/ChatYuan-large-v1  
